@@ -41,7 +41,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'awesome_print', '~> 1.7', '>= 1.7.0'
   s.add_development_dependency 'pry', '~> 0.10', '>= 0.10.3'
   s.add_development_dependency 'pry-nav', '~> 0.2', '>= 0.2.4'
-  s.add_development_dependency 'yard', '~> 0.8.7', '>= 0.8.7.6'
+  s.add_development_dependency 'yard', '>= 0.8.7.6', '~> 0.9.25'
   s.add_development_dependency 'guard-yard', '~> 2.1', '>= 2.1.3'
   s.add_development_dependency 'webmock', '~> 2.1', '>= 2.1.0'
   s.add_development_dependency 'rubocop', '~> 0.41.0', '>= 0.41.2'
